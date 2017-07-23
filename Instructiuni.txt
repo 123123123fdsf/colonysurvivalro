@@ -1,0 +1,4 @@
+1. Deschide folderul in care e instalat Colony Survival
+2. Dezarhiveaza in folderul jocului
+3.Intra pe joc
+4.Settings - Language - Romana
